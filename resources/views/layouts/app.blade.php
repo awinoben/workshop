@@ -50,7 +50,6 @@
                             @endif
                         @else
                         <li class="nav-item"><a class="nav-link text-primary" href="{{ route('home') }}">Home</a></li>
-                        
                         <li class="nav-item"><a class="nav-link text-primary" href="{{ route('home') }}">Truck Records</a></li>
                         <li class="nav-item"><a class="nav-link text-primary" href="{{ route('users.index') }}">User Management</a></li>
                         <li class="nav-item"><a class="nav-link text-primary" href="{{ route('roles.index') }}">Roles Management</a></li>

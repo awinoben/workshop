@@ -81,7 +81,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Workshop Service Automation
+                Fast Motors Workshop
                 </div>
 
                 <!-- <div class="links">
